@@ -1,12 +1,12 @@
-# Classy Endeavours: Empowering Businesses with Cutting-Edge Software Solutions  
+# Classy Endeavors: Empowering Businesses with Cutting-Edge Software Solutions  
 
 ## **Transforming Ideas into Reality**  
 
-At Classy Endeavours, we don’t just build software—we craft solutions that drive growth, efficiency, and innovation. With a proven track record of delivering **200+ projects** across **15+ countries**, we’ve helped businesses achieve **$50M+ in savings** and boost **operational efficiency by 35%**. Our commitment to excellence is reflected in our **100% client satisfaction rate**, making us a trusted partner for businesses worldwide.  
+At Classy Endeavors, we don’t just build software—we craft solutions that drive growth, efficiency, and innovation. With a proven track record of delivering **200+ projects** across **15+ countries**, we’ve helped businesses achieve **$50M+ in savings** and boost **operational efficiency by 35%**. Our commitment to excellence is reflected in our **100% client satisfaction rate**, making us a trusted partner for businesses worldwide.  
 
 ---
 
-## **Why Choose Classy Endeavours?**  
+## **Why Choose Classy Endeavors?**  
 
 ### **By the Numbers**  
 - 🌍 **15+ Countries Served**  
@@ -67,11 +67,11 @@ Got a game-changing idea? Let’s bring it to life! Our team of experts is ready
 
 ## **Ready to Transform Your Business?**  
 
-Let’s innovate together! Whether you’re looking to integrate AI, deploy intelligent agents, or build a custom software solution, Classy Endeavours is here to help.  
+Let’s innovate together! Whether you’re looking to integrate AI, deploy intelligent agents, or build a custom software solution, Classy Endeavors is here to help.  
 
 📩 **Email:** [info@classyendeavours.com](#)  
 💬 **Discord:** [Join our Community](#)  
 
 ---
 
-**Classy Endeavours** – Your partner in crafting innovative, scalable, and future-ready software solutions. Let’s build something extraordinary! 🚀  
+**Classy Endeavors** – Your partner in crafting innovative, scalable, and future-ready software solutions. Let’s build something extraordinary! 🚀  
