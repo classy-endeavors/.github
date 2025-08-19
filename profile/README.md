@@ -69,7 +69,7 @@ Got a game-changing idea? Let’s bring it to life! Our team of experts is ready
 
 Let’s innovate together! Whether you’re looking to integrate AI, deploy intelligent agents, or build a custom software solution, Classy Endeavors is here to help.  
 
-📩 **Email:** [info@classyendeavours.com](#)  
+📩 **Email:** [info@classyendeavors.com](#)  
 💬 **Discord:** [Join our Community](#)  
 
 ---
